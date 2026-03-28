@@ -2,6 +2,8 @@
 
 A **single-page portfolio** with a dark, editorial layout: animated sections, project grid, achievements, skills, and contact. Built as a static site you can host anywhere.
 
+**Repository:** [github.com/maazm5906/Portfolio-Website](https://github.com/maazm5906/Portfolio-Website)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
